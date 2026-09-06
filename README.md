@@ -70,7 +70,7 @@
 
 ## 🐱 猫下泌尿道疾病（FLUTD）· 急诊思维导图
 
-![猫下泌尿道疾病（FLUTD）](./images/猫FLUTD.png)
+![猫下泌尿道疾病（FLUTD）](./images/猫下泌尿道疾病鉴别诊断.png)
 
 📄 [查看文字详解](./docs/猫FLUTD.md)
 
